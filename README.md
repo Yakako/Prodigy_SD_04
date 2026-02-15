@@ -66,6 +66,5 @@ Displays the fully solved Sudoku grid in the terminal.
 
 
 ## 👩‍💻 Author
-Name : Pruonh Kimliya
-
-Email: kimliyapruonh@gmail.com
+- Name : Pruonh Kimliya
+- Email: kimliyapruonh@gmail.com
